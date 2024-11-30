@@ -3,6 +3,7 @@
 私は**Team Hijikinoheya**に所属しています。私たちは、さまざまなプロジェクトに取り組み、オープンソースの開発を推進しています。私たちの活動や最新情報については、以下のリンクからご覧いただけます。
 - **公式サイト**: [Team Hijikinoheya](https://home.hijikinoheya.com)
 - **公式Github**: [Team Hijkinoheya](https://github.com/Team-Hijikinoheya)
+
 また、Team Hijikinoheya内のリポジトリはこちらから公開しています。
 
 ## 作者の紹介(以下ホームページから)
