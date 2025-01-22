@@ -1,10 +1,19 @@
 ## Team Hijikinoheya
 
-私は**Team Hijikinoheya**に所属しています。私たちは、さまざまなプロジェクトに取り組み、オープンソースの開発を推進しています。私たちの活動や最新情報については、以下のリンクからご覧いただけます。
+私は**Team Hijikinoheya**に所属しています。私たちは、さまざまなプロジェクトに取り組み、ソフトウェアの開発を推進しています。私たちの活動や最新情報については、以下のリンクからご覧いただけます。
 - **公式サイト**: [Team Hijikinoheya](https://home.hijikinoheya.com)
 - **公式Github**: [Team Hijkinoheya](https://github.com/Team-Hijikinoheya)
 
 また、Team Hijikinoheya内のリポジトリはこちらから公開しています。
+没になったアプリなども公開しています。
+また、このGithubアカウント中のソフトウェアなどの一部の所有権はすべてTeam Hijikinoheyaに帰属します。
+詳しくはこちらをご覧ください。
+- **ソフトウェアライセンスについて**: [Team Hijkinoheya - ライセンス](https://home.hijikinoheya.com/license.php)
+独自ライセンスの対象となるソフトウェアは、リンクページで公開しています。これらのソフトウェアの所有権はすべてTeam Hijikinoheyaに帰属しており、利用規約に従って提供されています。
+- **対象ソフトウェア**: [Team Hijkinoheya - アプリ](https://home.hijikinoheya.com/links.php)
+  
+没案となったアプリケーションや一部のオープンソースコードは、GNU General Public License version 2.0のもとで公開しています。興味がある方はぜひご覧ください。
+- **GNU General Public License**: [GNU General Public License](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 
 ## 作者の紹介(以下ホームページから)
 初めまして、プログラミングエンジニアを目指してる私です。
