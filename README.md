@@ -27,4 +27,4 @@
 - **マイページ**: [Hijikinoheya GitHub Page](https://hijikinoheya.github.io/)
 
 ## My Most Used Languages
-![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hijikinoheya&layout=compact&theme=dark)
+![My Most Used Languages](https://camo.githubusercontent.com/f2c1dff0b444a92291870a512cfcab0e0c95d98f89b7c7e6f7a498906e31ef12/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d48696a696b696e6f68657961266c61796f75743d636f6d70616374267468656d653d6461726b)
